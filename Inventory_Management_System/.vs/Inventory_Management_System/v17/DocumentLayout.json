@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Givenchie\\Desktop\\Inventory_Management_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA93361-9CAA-4774-81D7-5C741DF0C411}|Inventory_Management_System\\Inventory_Management_System.csproj|c:\\users\\givenchie\\desktop\\inventory_management_system\\inventory_management_system\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5CA93361-9CAA-4774-81D7-5C741DF0C411}|Inventory_Management_System\\Inventory_Management_System.csproj|solutionrelative:inventory_management_system\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomePage.aspx",
+              "DocumentMoniker": "C:\\Users\\Givenchie\\Desktop\\Inventory_Management_System\\Inventory_Management_System\\HomePage.aspx",
+              "RelativeDocumentMoniker": "Inventory_Management_System\\HomePage.aspx",
+              "ToolTip": "C:\\Users\\Givenchie\\Desktop\\Inventory_Management_System\\Inventory_Management_System\\HomePage.aspx",
+              "RelativeToolTip": "Inventory_Management_System\\HomePage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-10T14:12:41.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
